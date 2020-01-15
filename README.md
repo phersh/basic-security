@@ -1,3 +1,3 @@
-# basic-security
+# Basic Security
 
-Testing Continuous Deployment with Cloud Run
+Testing Continuous Deployment with Cloud Run and Docker
